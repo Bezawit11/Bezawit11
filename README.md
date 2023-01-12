@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bezawit11
+- 👋 Hi, I’m Beza
 - 🌱 I’m currently learning Software Engineering at ALX
 
 <!---
